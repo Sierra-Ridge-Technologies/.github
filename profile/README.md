@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello!
+
+me when the sierra ridge technologies (work in progress)
+[website](https://sierraridgetech.com)
 
 <!--
 
